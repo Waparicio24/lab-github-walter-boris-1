@@ -1,12 +1,12 @@
 {
-"integrante_a": {
-    "nombre": "Nombre del Integrante A",
-    "github_user": "usuario_github_a",
+  "integrante_a": {
+    "nombre": "Walter Aparicio",
+    "github_user": "Waparicio24",
     "rol": "Líder de Integración"
   },
- "integrante_b": {
- "nombre": "Boris.Guerra",
- "github_user": "borisguerra507martinez",
- "rol": "Desarrollador Secundario"
- }
+  "integrante_b": {
+    "nombre": "Boris Guerra",
+    "github_user": "borisguerra507martinez",
+    "rol": "Desarrollador Secundario"
+  }
 }
