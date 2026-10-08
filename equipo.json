@@ -1,10 +1,14 @@
-{
-  "integrante_a": {
-    "nombre": "PENDIENTE",
-    "github_user": "PENDIENTE",
-    "rol": "PENDIENTE"
+{ 
+
+  "integrante_a": { 
+
+    "nombre": "Nombre del Integrante A", 
+
+    "github_user": "usuario_github_a", 
+
+    "rol": "Líder de Integración" 
   },
-  "integrante_b": {
+    "integrante_b": {
     "nombre": "PENDIENTE",
     "github_user": "PENDIENTE",
     "rol": "PENDIENTE"
